@@ -1,0 +1,71 @@
+Movies List:
+
+1. Title: Avatar
+   Description: Sci-fi movie
+   Duration: 150 minutes
+   Release Date: Mon Jan 01 2024
+   Tickets Available: 46
+
+2. Title: Avatar
+   Description: Sci-fi movie
+   Duration: 150 minutes
+   Release Date: Mon Jan 01 2024
+   Tickets Available: 48
+
+3. Title: Avatar
+   Description: Sci-fi movie
+   Duration: 150 minutes
+   Release Date: Mon Jan 01 2024
+   Tickets Available: 50
+
+4. Title: Avatar2
+   Description: Sci-fi movie
+   Duration: 150 minutes
+   Release Date: Mon Jan 01 2024
+   Tickets Available: 50
+
+5. Title: kgf
+   Description: Sci-fi movie
+   Duration: 150 minutes
+   Release Date: Mon Jan 01 2024
+   Tickets Available: 33
+
+6. Title: kantara
+   Description: Sci-fi movie
+   Duration: 150 minutes
+   Release Date: Mon Jan 01 2024
+   Tickets Available: 4
+
+7. Title: kantara2
+   Description: Sci-fi movie
+   Duration: 150 minutes
+   Release Date: Mon Jan 01 2024
+   Tickets Available: 20
+
+8. Title: kantara2
+   Description: Sci-fi movie
+   Duration: 150 minutes
+   Release Date: Mon Jan 01 2024
+   Tickets Available: 9
+
+
+Title: pushpa
+Description: Sci-fi movie
+Duration: 150 minutes
+Release Date: Mon Jan 01 2024
+Tickets Available: 20
+
+
+Title: pushpa2
+Description: Sci-fi movie
+Duration: 150 minutes
+Release Date: Mon Jan 01 2024
+Tickets Available: 20
+
+
+Title: pushpa2abg
+Description: Sci-fi movie
+Duration: 150 minutes
+Release Date: Mon Jan 01 2024
+Tickets Available: 20
+
